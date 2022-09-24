@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-/*Unit_converter_001 - Конвертере единиц измерения*/
+/*Unit_converter_001 - Конвертер единиц измерения*/
 
 /*Weight units - единицы веса (массы). Режим конвертера (1)*/
 
